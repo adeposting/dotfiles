@@ -1,0 +1,12 @@
+# == Project Specific
+dist/
+
+# === OS Files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+._*
