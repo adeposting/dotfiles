@@ -31,3 +31,7 @@ alias vim='nvim'
 
 # --- Application Shortcuts ---
 alias vscode='open -a "Visual Studio Code"'
+
+# --- Filesystem Shortcuts ---
+alias icloud-drive="cd '$ICLOUD_DRIVE'"
+alias obsidian-vault="cd '$OBSIDIAN_VAULT'"
